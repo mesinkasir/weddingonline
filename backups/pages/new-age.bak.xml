@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Thu, 10 Dec 2020 14:03:58 +0700</pubDate><title><![CDATA[Post Product]]></title><url><![CDATA[new-age]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[New Age]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;col-4 col-md-4 p-3 p-md-5&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;data/uploads/as-copy.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col-8 col-8 p-3 p-md-5&quot;&gt;
+		&lt;h3 class=&quot;text-danger&quot;&gt;&lt;strong&gt;Post Product&lt;/strong&gt;&lt;/h3&gt;
+
+		&lt;p class=&quot;lead&quot;&gt;This is a post page and product for new age fashion style&lt;/p&gt;
+
+		&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+		&lt;h4&gt;&lt;strong&gt;$.150&lt;/strong&gt;&lt;/h4&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-12 p-3 p-md-5&quot;&gt;
+		&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>

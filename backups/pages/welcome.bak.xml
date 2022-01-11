@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Tue, 11 Jan 2022 19:29:28 +0700</pubDate><title><![CDATA[Welcome]]></title><url><![CDATA[welcome]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Welcome]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=&quot;col-12 p-3 text-center&quot;&gt;
+	&lt;p&gt;Click informasi dibawah ini&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;col-6 col-md-3 p-3 bg-danger border border-white text-center&quot;&gt;
+		&lt;h2&gt;&lt;a class=&quot;text-white&quot; href=&quot;index.php?id=acara&quot;&gt;&lt;svg class=&quot;bi bi-calendar-check&quot; fill=&quot;currentColor&quot; height=&quot;36&quot; viewbox=&quot;0 0 16 16&quot; width=&quot;36&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path d=&quot;M10.854 7.146a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7.5 9.793l2.646-2.647a.5.5 0 0 1 .708 0z&quot;&gt;&lt;/path&gt; &lt;path d=&quot;M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5zM1 4v10a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4H1z&quot;&gt;&lt;/path&gt; &lt;/svg&gt;&lt;br /&gt;
+			Acara&lt;/a&gt;&lt;/h2&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-6 col-md-3 p-3 bg-danger border border-white text-center&quot;&gt;
+		&lt;h2&gt;&lt;a class=&quot;text-white&quot; href=&quot;index.php?id=map&quot;&gt;&lt;svg class=&quot;bi bi-map&quot; fill=&quot;currentColor&quot; height=&quot;36&quot; viewbox=&quot;0 0 16 16&quot; width=&quot;36&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path d=&quot;M15.817.113A.5.5 0 0 1 16 .5v14a.5.5 0 0 1-.402.49l-5 1a.502.502 0 0 1-.196 0L5.5 15.01l-4.902.98A.5.5 0 0 1 0 15.5v-14a.5.5 0 0 1 .402-.49l5-1a.5.5 0 0 1 .196 0L10.5.99l4.902-.98a.5.5 0 0 1 .415.103zM10 1.91l-4-.8v12.98l4 .8V1.91zm1 12.98 4-.8V1.11l-4 .8v12.98zm-6-.8V1.11l-4 .8v12.98l4-.8z&quot; fill-rule=&quot;evenodd&quot;&gt;&lt;/path&gt; &lt;/svg&gt;&lt;br /&gt;
+			Map&lt;/a&gt;&lt;/h2&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-6 col-md-3 p-3 bg-danger border border-white text-center&quot;&gt;
+		&lt;h2&gt;&lt;a class=&quot;text-white&quot; href=&quot;index.php?id=gift&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;36&quot; height=&quot;36&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-gift&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;path d=&quot;M3 2.5a2.5 2.5 0 0 1 5 0 2.5 2.5 0 0 1 5 0v.006c0 .07 0 .27-.038.494H15a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1v7.5a1.5 1.5 0 0 1-1.5 1.5h-11A1.5 1.5 0 0 1 1 14.5V7a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h2.038A2.968 2.968 0 0 1 3 2.506V2.5zm1.068.5H7v-.5a1.5 1.5 0 1 0-3 0c0 .085.002.274.045.43a.522.522 0 0 0 .023.07zM9 3h2.932a.56.56 0 0 0 .023-.07c.043-.156.045-.345.045-.43a1.5 1.5 0 0 0-3 0V3zM1 4v2h6V4H1zm8 0v2h6V4H9zm5 3H9v8h4.5a.5.5 0 0 0 .5-.5V7zm-7 8V7H2v7.5a.5.5 0 0 0 .5.5H7z&quot;/&gt;
+&lt;/svg&gt;&lt;br /&gt;
+			Gift&lt;/a&gt;&lt;/h2&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-6 col-md-3 p-3 bg-danger border border-white text-center&quot;&gt;
+		&lt;h2&gt;&lt;a class=&quot;text-white&quot; href=&quot;https://wa.me/6285646104747&quot;&gt;&lt;svg class=&quot;bi bi-whatsapp&quot; fill=&quot;currentColor&quot; height=&quot;36&quot; viewbox=&quot;0 0 16 16&quot; width=&quot;36&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;path d=&quot;M13.601 2.326A7.854 7.854 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.933 7.933 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.898 7.898 0 0 0 13.6 2.326zM7.994 14.521a6.573 6.573 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.557 6.557 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592zm3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.729.729 0 0 0-.529.247c-.182.198-.691.677-.691 1.654 0 .977.71 1.916.81 2.049.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232z&quot;&gt;&lt;/path&gt; &lt;/svg&gt;&lt;br /&gt;
+			Chat&lt;/a&gt;&lt;/h2&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>

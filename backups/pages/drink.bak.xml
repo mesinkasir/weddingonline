@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Fri, 25 Dec 2020 15:32:43 +0700</pubDate><title><![CDATA[Drink]]></title><url><![CDATA[drink]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Drink]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;h1&gt;&lt;strong&gt;Ombenan Rojo.&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;hr class=&quot;bg-dark&quot; /&gt;
+&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;col-12 col-md-4&quot;&gt;
+		&lt;p&gt;&lt;strong&gt;&lt;img alt=&quot;&quot; class=&quot;img-fluid&quot; src=&quot;data/uploads/drink.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/strong&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-md-8&quot;&gt;
+		&lt;p&gt;Lorep ipsum dolor siamet Lorep ipsum dolor siamet Lorep ipsum dolor siamet Lorep ipsum dolor siamet Lorep ipsum dolor siamet Lorep ipsum dolor siamet.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h3&gt;Drink Menu.&lt;/h3&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;col-6 col-md-6&quot;&gt;
+		&lt;p&gt;Es Teh Rp.8.000&lt;/p&gt;
+
+		&lt;p&gt;POP ice Rp.12.000&lt;/p&gt;
+
+		&lt;p&gt;Es Jos Rp.12.000&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-6 col-md-6&quot;&gt;
+		&lt;p&gt;Wedang Teh Rp.7.000&lt;/p&gt;
+
+		&lt;p&gt;Wedang Susu Rp.8.000&lt;/p&gt;
+
+		&lt;p&gt;Wedang Jahe Rp.8.000&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>

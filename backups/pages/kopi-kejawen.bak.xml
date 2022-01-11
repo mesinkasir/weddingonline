@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 28 Dec 2020 16:11:34 +0700</pubDate><title><![CDATA[Kopi]]></title><url><![CDATA[kopi-kejawen]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Kopi Kejawen]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;h1&gt;&lt;strong&gt;Coffee.&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;hr class=&quot;bg-dark&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img alt=&quot;&quot; class=&quot;img-fluid&quot; src=&quot;data/uploads/kopi.webp&quot; width=&quot;100%&quot; /&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;col-12 col-md-12&quot;&gt;
+	&lt;p&gt;Lorep ipsum dolor siamet Lorep ipsum dolor siamet Lorep ipsum dolor siamet Lorep ipsum dolor siamet Lorep ipsum dolor siamet Lorep ipsum dolor siamet.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-12 col-md-4 p-3 text-center&quot;&gt;
+	&lt;h3&gt;&lt;strong&gt;Kopi Menu.&lt;/strong&gt;&lt;/h3&gt;
+&lt;/div&gt;
+
+	&lt;div class=&quot;col-6 col-md-4 p-3&quot;&gt;
+		&lt;p&gt;Kopi Jowo Rp.15.000&lt;/p&gt;
+
+		&lt;p&gt;Kopi Susu Rp.12.000&lt;/p&gt;
+
+		&lt;p&gt;Kopi Jos Rp.10.000&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-6 col-md-4 p-3&quot;&gt;
+		&lt;p&gt;Kopi Londo Rp.18.000&lt;/p&gt;
+
+		&lt;p&gt;Kopi Mito Rp.12.000&lt;/p&gt;
+
+		&lt;p&gt;Kopi Belang Rp.10.000&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>

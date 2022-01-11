@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Tue, 29 Dec 2020 01:40:21 +0700</pubDate><title><![CDATA[Product]]></title><url><![CDATA[product]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Product]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;h1&gt;&lt;strong&gt;Our Products.&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;col-12 col-md-5&quot;&gt;
+		&lt;p class=&quot;text-center&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;data/uploads/products.png&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-md-7&quot;&gt;
+		&lt;p&gt;Shampo Hula hula Rp.135.000&lt;/p&gt;
+
+		&lt;p&gt;Semir Kiwi Rp.125.000&lt;/p&gt;
+
+		&lt;p&gt;Sabun Cuka Rp.165.000&lt;/p&gt;
+
+		&lt;p&gt;Semir Vixs Rp.125.000&lt;/p&gt;
+		&lt;p&gt;Bedak Cing cing Rp.75.000&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Fri, 25 Dec 2020 13:18:55 +0700</pubDate><title><![CDATA[Contactsssss]]></title><url><![CDATA[contactsssss]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;pre&gt;&lt;code class=&quot;language-php&quot;&gt;
+    &amp;lt;?php
+	
+        	header( &quot;Content-Type: text/html; charset=utf-8&quot; );
+    
+    	if (isset($_POST[&quot;submit&quot;])) {
+    		$name = $_POST[&quot;name&quot;];
+    		$tel = $_POST[&quot;tel&quot;];
+    		$email = $_POST[&quot;email&quot;];
+    		$message = $_POST[&quot;message&quot;];
+    		$human = intval($_POST[&quot;human&quot;]);
+			$to = file_get_contents(&#039;data/other/easy_contactform/mail.txt&#039;, true);
+		$fromer = file_get_contents(&#039;data/other/easy_contactform/sender.txt&#039;,true);
+    
+    $headers = &quot;From: &quot;.$fromer.&quot; \\r\\n&quot;;
+    $headers .= &quot;Reply-To: &quot;. strip_tags($_POST[&quot;email&quot;]) . &quot;\\r\\n&quot;;
+    $headers .= &quot;MIME-Version: 1.0\\r\\n&quot;;
+    $headers .= &quot;Content-Type: text/html; charset=UTF-8\\r\\n&quot;;
+    
+    		$subject = file_get_contents(&#039;data/other/easy_contactform/subject.txt&#039;, true);
+			
+			$fromLabel = file_get_contents(&#039;data/other/easy_contactform/fromlabel.txt&#039;, true);
+			$fromLabelmail = file_get_contents(&#039;data/other/easy_contactform/fromlabelmail.txt&#039;, true);
+			$fromLabelphone = file_get_contents(&#039;data/other/easy_contactform/fromlabelphone.txt&#039;, true);
+			$fromLabelcontent = file_get_contents(&#039;data/other/easy_contactform/fromlabelcontent.txt&#039;, true);
+			$questionfin = file_get_contents(&#039;data/other/easy_contactform/questionanswer.txt&#039;, true);
+
+
+
+			// Program to display URL of current page. 
+  
+if(isset($_SERVER[&#039;HTTPS&#039;]) &amp;amp;&amp;amp; $_SERVER[&#039;HTTPS&#039;] === &#039;on&#039;) 
+$link = &quot;https&quot;; 
+else
+$link = &quot;http&quot;; 
+
+// Here append the common URL characters. 
+$link .= &quot;://&quot;; 
+
+// Append the host(domain name, ip) to the URL. 
+$link .= $_SERVER[&#039;HTTP_HOST&#039;]; 
+
+// Append the requested resource location to the URL 
+$link .= $_SERVER[&#039;REQUEST_URI&#039;]; 
+  
+
+ 
+			
+
+    		$body =&quot;
+    
+    &amp;lt;div style=&#039;max-width:960px;margin:0 auto;&#039;&amp;gt;
+			&amp;lt;div style=&#039;width:100%;padding:10px;border-radius:5px;background:#eae7d9;border:solid 1px #442727&#039;&amp;gt;
+    		&amp;lt;b&amp;gt;$fromLabel&amp;lt;/b&amp;gt;$name
+    		&amp;lt;/div&amp;gt;
+			&amp;lt;br /&amp;gt;
+						&amp;lt;div style=&#039;width:100%;padding:10px;border-radius:5px;background:#eae7d9;border:solid 1px #442727&#039;&amp;gt;
+
+    &amp;lt;b&amp;gt;$fromLabelmail &amp;lt;/b&amp;gt; $email
+    &amp;lt;/div&amp;gt;
+	&amp;lt;br /&amp;gt;
+&amp;lt;div style=&#039;width:100%;padding:10px;border-radius:5px;background:#eae7d9;border:solid 1px #442727&#039;&amp;gt;
+    &amp;lt;b&amp;gt;$fromLabelphone &amp;lt;/b&amp;gt; $tel
+    &amp;lt;/div&amp;gt;
+    &amp;lt;br /&amp;gt;
+    &amp;lt;div style=&#039;width:100%;padding:10px;border-radius:5px;background:#eae7d9;border:solid 1px #442727&#039;&amp;gt;
+
+   &amp;lt;b&amp;gt; $fromLabelcontent &amp;lt;/b&amp;gt; $message
+	&amp;lt;/div&amp;gt;
+	
+
+	&amp;lt;br&amp;gt;
+
+	&amp;lt;div style=&#039;width:100%;padding:10px;border-radius:5px;background:#eae7d9;border:solid 1px #442727&#039;&amp;gt;
+
+&amp;lt;b&amp;gt;URL&amp;lt;/b&amp;gt; $link
+	&amp;lt;/div&amp;gt;
+    
+    &amp;lt;/div&amp;gt;
+    &quot;;
+
+    		//Check if simple anti-bot test is correct
+    		if ($human !== &#039;&quot;&#039;+$questionfin+&#039;&quot;&#039;) {
+				echo&#039;&amp;lt;div class=&quot;easyContactSendNot&quot;&amp;gt;&#039;;echo file_get_contents(&#039;data/other/easy_contactform/fail.txt&#039;); echo &#039;&amp;lt;/div&amp;gt;&#039;;
+
+    	
+	} else {
+		if (mail ($to, $subject, $body,$headers)){
+			echo&#039;&amp;lt;div class=&quot;easyContactSend&quot;&amp;gt;&#039;;echo file_get_contents(&#039;data/other/easy_contactform/success.txt&#039;) ; echo &#039;&amp;lt;/div&amp;gt;&#039;;
+		};
+	};
+
+    };
+    ?&amp;gt;
+    &lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>

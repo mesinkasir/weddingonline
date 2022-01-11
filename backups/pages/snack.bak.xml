@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Fri, 25 Dec 2020 15:38:25 +0700</pubDate><title><![CDATA[Snack]]></title><url><![CDATA[snack]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;h1&gt;&lt;strong&gt;Jajan Pasar.&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;hr class=&quot;bg-dark&quot; /&gt;
+&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;col-12 col-md-4&quot;&gt;
+		&lt;p&gt;&lt;strong&gt;&lt;img alt=&quot;&quot; class=&quot;img-fluid&quot; src=&quot;data/uploads/jajan.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/strong&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-md-8&quot;&gt;
+		&lt;p&gt;Lorep ipsum dolor siamet Lorep ipsum dolor siamet Lorep ipsum dolor siamet Lorep ipsum dolor siamet Lorep ipsum dolor siamet Lorep ipsum dolor siamet.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h3&gt;Bakery Menu.&lt;/h3&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;col-6 col-md-6&quot;&gt;
+		&lt;p&gt;Bikang Rp.3.000&lt;/p&gt;
+		&lt;p&gt;Pukis Rp.4.000&lt;/p&gt;
+		&lt;p&gt;Lemper Rp.4.000&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-6 col-md-6&quot;&gt;
+		&lt;p&gt;Leker Rp.3.000&lt;/p&gt;
+		&lt;p&gt;Sate Usus Rp.3.000&lt;/p&gt;
+		&lt;p&gt;Endok Puyuh Rp.3.000&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>

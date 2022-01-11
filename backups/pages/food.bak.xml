@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 28 Dec 2020 19:23:00 +0700</pubDate><title><![CDATA[Food]]></title><url><![CDATA[food]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Food]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;h1&gt;&lt;strong&gt;Food Menu.&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;col-12 col-md-4&quot;&gt;
+		&lt;p&gt;&lt;strong&gt;&lt;img alt=&quot;&quot; class=&quot;img-fluid&quot; src=&quot;data/uploads/food.png&quot; width=&quot;100%&quot; /&gt;&lt;/strong&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-md-8&quot;&gt;
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;col-6 col-md-6&quot;&gt;
+				&lt;p&gt;Mie Mlungker Rp.13.000&lt;/p&gt;
+
+				&lt;p&gt;Mie Mlumah Rp.14.000&lt;/p&gt;
+
+				&lt;p&gt;Mie Mulet Rp.15.000&lt;/p&gt;
+
+				&lt;p&gt;Mie Nyeker Rp.13.000&lt;/p&gt;
+
+				&lt;p&gt;Mie Klompen Rp.13.000&lt;/p&gt;
+
+				&lt;p&gt;Mie Boot Rp.13.000&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-6 col-md-6&quot;&gt;
+				&lt;p&gt;Mie Nyeker Rp.13.000&lt;/p&gt;
+
+				&lt;p&gt;Mie Klompen Rp.13.000&lt;/p&gt;
+
+				&lt;p&gt;Mie Boot Rp.13.000&lt;/p&gt;
+
+				&lt;p&gt;Mie Mlungker Rp.13.000&lt;/p&gt;
+
+				&lt;p&gt;Mie Mlumah Rp.14.000&lt;/p&gt;
+
+				&lt;p&gt;Mie Mulet Rp.15.000&lt;/p&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>
