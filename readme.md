@@ -30,7 +30,8 @@ Gift hadiah page display
 
 Mobile display
  
-====================================================
+
+ -----------------------------------------------------------------
 
 # New Modern CMS Build a website without database.
 
