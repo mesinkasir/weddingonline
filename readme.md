@@ -72,3 +72,13 @@ https://axcora.com/getaxcoracms
 present by https://axcora.com
 
 Hapy codding !!
+--------------------------------------------------------------------------------------------------------------------
+
+### Buy me a coffee ☕️ ❤️  ✌🏻 
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
